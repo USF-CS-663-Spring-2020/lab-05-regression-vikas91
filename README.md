@@ -1,4 +1,4 @@
 # readme.md
 
-**Name**:  
-**USF email address**:  
+**Name**: Vikas Ramaneti  
+**USF email address**: vramaneti@dons.usfca.edu 
